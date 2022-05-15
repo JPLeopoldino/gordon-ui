@@ -20,7 +20,7 @@ export const Container = styled.View<ContainerProps>`
   z-index: 1;
 
   elevation: 4;
-  filter: drop-shadow(0px 4px 8px rgba(17, 81, 87, 0.15));
+  /* filter: drop-shadow(0px 4px 8px rgba(17, 81, 87, 0.15)); */
 `
 
 export const NotificationIcon = styled.View`
@@ -34,5 +34,5 @@ export const NotificationIcon = styled.View`
   background-color: ${colors.red};
 
   elevation: 4;
-  filter: drop-shadow(0px 4px 8px rgba(17, 81, 87, 0.15));
+  /* filter: drop-shadow(0px 4px 8px rgba(17, 81, 87, 0.15)); */
 `
