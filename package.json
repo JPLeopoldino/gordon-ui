@@ -1,6 +1,6 @@
 {
   "name": "gordon-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native UI library",
   "homepage": "https://github.com/JPLeopoldino/gordon-ui#readme",
   "main": "lib/index.js",
